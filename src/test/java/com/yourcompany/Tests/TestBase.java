@@ -90,7 +90,7 @@ public class TestBase  {
         return new Object[][]{
                 // Android Real Devices on TO
                 new Object[]{"TestObject - Google Pixel", "7.0", "Google_Pixel_real", "MobileNative - Android"},
-                 new Object[]{"TestObject - Nexus 7", "6.0", "Samsung_Galaxy_Tab_Active_real_us", "MobileNative - Android"},
+                new Object[]{"TestObject - Nexus 7", "6.0", "Samsung_Galaxy_Tab_Active_real_us", "MobileNative - Android"},
 
                 // iOS Real Devices on TO
                 new Object[]{"TestObject - iPhone 6", "10.0", "iPhone_6_Plus_real_us", "MobileNative - iOS"},
